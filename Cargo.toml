@@ -1,0 +1,12 @@
+[package]
+name = "dict-bot"
+version = "0.1.0"
+authors = ["not-inept <mason@notinept.me>"]
+
+[dependencies]
+serenity = "0.4"
+futures = "0.1.17"
+hyper = "0.11.8"
+hyper-tls = "0.1.2"
+quick-xml = "0.10.0"
+tokio-core = "0.1.10"
